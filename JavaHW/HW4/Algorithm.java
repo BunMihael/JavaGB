@@ -1,12 +1,8 @@
 package JavaHW.HW4;
 
-
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-
-// package Workshop;
 
 public class Algorithm {
     public static void main(String[] args) {
@@ -46,7 +42,6 @@ class Point2D {
 
     }
 }
-
 
 class MapGenerator {
     int[][] map;
@@ -174,7 +169,7 @@ class WaveAlgorithm {
         }
     }
 
-    public ArrayList<Point2D> getRoad(Point2D exit){
+    public ArrayList<Point2D> getRoad(Point2D exit) {
         ArrayList<Point2D> road = new ArrayList<>();
 
         return road;
