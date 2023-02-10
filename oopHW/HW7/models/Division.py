@@ -14,4 +14,4 @@ class Division:
                 break
 
     def get_division(self):
-        return self.
+        return self.__division

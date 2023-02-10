@@ -1,5 +1,5 @@
-from HomeWork7_OOP.mvp import Data_File, View_Console
-from HomeWork7_OOP.models import Worker_Builder
+from oopHW.HW7.mvp import Data_File, View_Console
+from oopHW.HW7.models import Worker_Builder
 
 # Класс Presenter связывает работу View и Model для отображения актуальной информации и обработки данных от пользователя
 class Presenter:

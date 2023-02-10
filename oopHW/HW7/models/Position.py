@@ -16,4 +16,4 @@ class Position:
                 break
 
     def get_position(self):
-        return self.
+        return self.__position

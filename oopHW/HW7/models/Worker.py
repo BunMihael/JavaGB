@@ -1,5 +1,5 @@
-from HomeWork7_OOP.models.Division import Division
-from HomeWork7_OOP.models.Position import Position
+from oopHW.HW7.models.Division import Division
+from oopHW.HW7.models.Position import Position
 
 # Класс WorkerBuilder c методами для создания сбоки Worker
 class Worker_Builder:

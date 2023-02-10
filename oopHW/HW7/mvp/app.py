@@ -1,4 +1,4 @@
-from HomeWork7_OOP.mvp import Presenter, View_Console, Data_File
+from oopHW.HW7.mvp import Presenter, View_Console, Data_File
 
 # Метод click() служит для работы в меню пользователя
 class App:
